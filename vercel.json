@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://api1.mtclub.top/:match*"
+    }
+  ]
+}
